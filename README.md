@@ -3,3 +3,5 @@
 - Estado del proyecto: en construcción.
 
 Para ejectuar el sistema, debes poner: ```npm install react```
+
+Sistema de Registro 2
